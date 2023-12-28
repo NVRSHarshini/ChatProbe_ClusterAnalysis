@@ -1,0 +1,28 @@
+.....main root:hi, we're here to help you.
+ 
+
+
+.....options:1.network-related issue
+ 
+2.billing & payments related issue
+ 
+3.recharge, balance and validity
+ 
+4.plan/pack related queries
+ 
+5.actions
+ 
+6.type
+ 
+7.others
+
+
+go ahead, select your issue.
+
+
+
+.........option chosen: (2.billing & payments related issue)
+.......level 2:options:1.View bills or 2. payment historychosen:payment history
+......level 3:did you find this recent conversation helpful? and its optios: 1.helpful/2.not helpful , options cohosen 1.helpful
+
+......endleaf:glad we could help!,close chat

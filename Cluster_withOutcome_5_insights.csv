@@ -1,0 +1,16 @@
+Name,Count,Class label,Cluster Labels,Label,Purity,Actionable insights
+Cluster 0,9,Payment issues on app,Application related payment issues,Transaction and Technical Support,80%,(Enhance Aerolink app's in-app troubleshooting guide) or( Implement an automated discrepancy resolution system)
+Cluster 1,9,Data Plan Change requests,Data usage related issues,"Balance, Plan Customizations",80%,Proper recommendation possible to include the (pack/plan) details in FAQs 
+Cluster 2,19,Transaction related issues,Transaction related issues,Unresolved Issues personalized Support,10%,Improve the bot's options and responses
+Cluster 3,10,Internet speed related issues,Internet speed related issues,Connectivity and Service Problems,80%,Develop troubleshooting resources(or guidance) specifically for Browsing and Internet Connectivity
+Cluster 4,17,Call related issues,Calls related coverage issues,Call related issues,70%,"Refine communication channels and network infrastructure to rectify call-related issues like call quality, international roaming"
+,,,,,,
+,,,,,,
+,,,,,,
+Cluster Labels,Live agent escalations,Support ticket creations,Total Unresolved,Recommendations,,
+Payment issues on app,7,2,9,,,
+Data Plan Change requests,8,1,9,,,
+Transaction related issues,12,7,19,,,
+Internet speed related issues,6,4,10,,,
+Call related issues,10,7,17,,,
+,,,,,,
